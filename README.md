@@ -1,6 +1,9 @@
 # Momento de Retroalimentación: Módulo 2 Implementación de un modelo de deep learning. (Portafolio Implementación)
 # A01753176 Gilberto André García Gaytán
 
+#DEMO
+https://github.com/gggandre/deep_learning_evidencia/assets/84719490/e3eb43f3-3349-4e63-8441-330d1fd5e6f4
+
 # Instrucciones:
 ## Entregable: Implementación de un modelo de deep learning.
 
